@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Exercise Menu</string>
+    <string name="labelapp">L O G I N</string>
+    <string name="un">Username</string>
+    <string name="input_username">Masukan Username</string>
+    <string name="ps">Password</string>
+    <string name="input_pass">Masukan Password</string>
+    <string name="btn">SIGN-IN</string>
+    <string name="labelMenu">Menu Hitung Bangun Datar</string>
+    <string name="persegi">Menghitung Persegi</string>
+    <string name="lingkaran">Menghitung Lingkaran</string>
+    <string name="persegiP">Menghitung Persegi Panjang</string>
+    <string name="segi3">Menghitung Segitiga</string>
+    <string name="trapesium">Menghitung Trapesium</string>
+    <string name="btnLuas">HITUNG LUAS</string>
+    <string name="btnKeliling">Hitung Keliling</string>
+
+    <string-array name="persegi">
+        <item>Hitung Persegi</item>
+        <item>Hitung Luas</item>
+        <item>Hitung Keliling</item>
+    </string-array>
+
+    <string-array name="lingkaran">
+        <item>Hitung Lingkaran</item>
+        <item>Hitung Luas</item>
+        <item>Hitung Keliling</item>
+    </string-array>
+
+    <string-array name="persegiPjg">
+        <item>Hitung Persegi Panjang</item>
+        <item>Hitung Luas</item>
+        <item>Hitung Keliling</item>
+    </string-array>
+
+    <string-array name="segitiga">
+        <item>Hitung Segitiga</item>
+        <item>Hitung Luas</item>
+        <item>Hitung Keliling</item>
+    </string-array>
+
+    <string-array name="trapesium">
+        <item>Hitung Trapesium</item>
+        <item>Hitung Luas</item>
+        <item>Hitung Keliling</item>
+    </string-array>
+</resources>
