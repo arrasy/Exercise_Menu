@@ -10,6 +10,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class KelilingPersegiP extends AppCompatActivity {
+
     EditText editP, editL;
     Button hitung;
     TextView hasil;
@@ -18,8 +19,8 @@ public class KelilingPersegiP extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_keliling_persegi_p);
 
-        editP = (EditText)findViewById(R.id.editP);
-        editL = (EditText)findViewById(R.id.editL);
+        editP = (EditText)findViewById(R.id.editAlas);
+        editL = (EditText)findViewById(R.id.editTinggi);
         hitung = (Button)findViewById(R.id.btnHitung);
         hasil = (TextView)findViewById(R.id.hasil);
 
